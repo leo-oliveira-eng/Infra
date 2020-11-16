@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="BaseEntity.Domain" Version="1.0.0-pre-3" />
     <PackageReference Include="Message.Response.Maybe" Version="1.0.0-preview-2" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
   </ItemGroup>
 
 </Project>

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
 	<PackageId>Infra.BaseRepository</PackageId>
-	<Version>1.0.0-pre-1</Version>
+	<Version>1.0.0-pre-3</Version>
 	<Authors>leo.oliveira.eng@outlook.com</Authors>
   </PropertyGroup>
 

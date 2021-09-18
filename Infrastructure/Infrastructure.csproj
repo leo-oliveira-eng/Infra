@@ -3,13 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
 	<PackageId>Infra.BaseRepository</PackageId>
-	<Version>1.0.0-pre-1</Version>
+	<Version>1.0.0-pre-3</Version>
 	<Authors>leo.oliveira.eng@outlook.com</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BaseEntity.Domain" Version="1.0.0-pre-3" />
-    <PackageReference Include="Message.Response.Maybe" Version="1.0.0-preview-2" />
+    <PackageReference Include="BaseEntity.Domain" Version="1.0.0-pre-6" />
+    <PackageReference Include="Message.Response.Maybe" Version="1.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
   </ItemGroup>
 
